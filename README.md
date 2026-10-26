@@ -289,8 +289,8 @@ que **não** participam da busca (a recuperação é puramente semântica sobre 
 A base é baixada automaticamente do Kaggle (não exige login).
 
 ```bash
-git clone <url-deste-repositorio>
-cd tech-challenge-fase4
+git clone https://github.com/tainajulianotti/tech-challenge-fase4-rag.git
+cd tech-challenge-fase4-rag
 python -m venv .venv
 .venv\Scripts\activate          # Linux/macOS: source .venv/bin/activate
 pip install -r requirements.txt
